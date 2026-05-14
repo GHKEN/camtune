@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>CameraExtension</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.ghken.camtune.CameraExtension</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>camtune Camera Extension</string>
+    <key>CFBundleDisplayName</key>
+    <string>camtune Camera Extension</string>
+    <key>CFBundlePackageType</key>
+    <string>SYSX</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>NSSystemExtensionUsageDescription</key>
+    <string>仮想カメラ機能を提供します。Zoom や Teams のカメラ一覧に camtune を表示します。</string>
+    <key>CMIOExtension</key>
+    <dict>
+        <key>CMIOExtensionMachServiceName</key>
+        <string>964L98DYMA.group.com.ghken.camtune.CameraExtension</string>
+    </dict>
+</dict>
+</plist>

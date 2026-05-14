@@ -1,0 +1,16 @@
+.DS_Store
+
+# Build artifacts
+/camtune.app/
+/.build/
+/camtune-notarize.zip
+*.dSYM/
+
+# Developer-specific signing / provisioning (per-machine, not for source control)
+embedded.provisionprofile
+extension.provisionprofile
+
+# Xcode / IDE
+*.xcuserstate
+.swiftpm/
+.idea/
